@@ -1,0 +1,6 @@
+{
+  "name": "Semesta Cambridge Chemistry Lesson Plan Generator",
+  "description": "Official Semesta School Cambridge IGCSE and AS/A Level Chemistry lesson plan generator featuring 5E model, WALT/WILF/SLO, multi-tier differentiation, LaTeX equations, and clean PDF/DOCX export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
